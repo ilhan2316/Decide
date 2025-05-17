@@ -1,4 +1,4 @@
-# DECIDE 🐻
+  # DECIDE 🐻
 
 A modern web application to help you make decisions with confidence.
 
@@ -12,7 +12,7 @@ DECIDE is a web-based decision-making tool that helps users make binary (yes/no)
 - Decision wheel visualization
 - Emotional reflection to understand how you feel about your decisions
 - User accounts to save your decision history
-Note: This is a first attempt and will be approved over time.
+- **Note: This is a first attempt and will be approved over time.**
 
 The app aims to transform indecision into actionable choices with our philosophy that "Not making a decision is actually a decision — a decision to stay the same."
 
